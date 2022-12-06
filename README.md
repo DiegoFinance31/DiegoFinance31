@@ -1,23 +1,6 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 Nombre de usuario: anandmainali 
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
 
 ### Hi there 👋 I'm [Diego Alonso Aguilar Romo](https://DiegoFinance31.com.np)
 > Economics Student at [PUCP](https://softnep.com)
@@ -27,9 +10,13 @@ Nombre de usuario: anandmainali
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+Among the computer tools that I use at an intermediate level are Stata, Python, R and Visual Basic. Also, I have knowledge in Bloomberg, Power BI and SQL. The creativity and simplicity in the creation of codes is something that stands out to me.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+It should also be mentioned that I have solid knowledge of econometrics, microeconomics and macroeconomics.
+
+Among the areas in which I would like to specialize on the economic side are Pension Economics, Development Economics and International Economics. On the financial side, I would like to specialize in the areas of Financial Analysis, Capital Markets and Investments, Portfolio Management and Advisor/Consultant.
+
+Finally, I would like to mention that I have a good command of both communication and business soft skills, since I have been developing them from an early age.
 </p>
 </div>
 
@@ -45,20 +32,18 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Diego Aguilar GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoFinance31&show_icons=true&count_private=true)](https://github.com/DiegoFinance31)
+[![DiegoFinance31 GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoFinance31&show_icons=true&count_private=true)](https://github.com/DiegoFinance31)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoFinance31&repo=PackageTemplate&show_owner=true)](https://github.com/DiegoFinance31/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoFinance31&repo=Foods-Ecommerce&show_owner=true)](https://github.com/DiegoFinance31/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DiegoFinance31&repo=Aguilar-Romo-Diego-Alonso_r_py_jl&show_owner=true)](https://github.com/DiegoFinance31/Aguilar-Romo-Diego-Alonso_r_py_jl )
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/diego-alonso-aguilar-romo-484b541ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@diegoalonsoaguilarromo-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
 
+<p align="center">
+<a href="https://www.instagram.com/diegoaguilarromo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-www.instagram.com/diegoaguilarromo/-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/diego-alonso-aguilar-romo-484b541ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@diegoalonsoaguilarromo-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:alonso.aguilarr@@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-alonso.aguilarr@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
 </p>
 
