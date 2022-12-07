@@ -20,11 +20,11 @@
 </p>
 </div>
 
-### Programming Languages that I use 🌐
+### 💥 Programming Languages that I use 
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" width="24">](https://r-project.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)
 
-<h3>🛠 Additional Tech Stack</h3>
+<h3>💥 Additional Tech Stack</h3>
 
 
 💻 &nbsp; Stata | Bloomberg | MySQL | Power BI | Capital IQ
@@ -34,6 +34,9 @@
 
 📲 &nbsp; Canva | ManyChat | FacebookAds | WhatsappBusiness
 
+<h3>💥 Languages I speak</h3>
+
+🗣️ &nbsp; Canva | ManyChat | FacebookAds | WhatsappBusiness
 
 ### Github Stats
 
