@@ -1,6 +1,6 @@
 
 ### Hi there 👋 I'm [Diego Alonso Aguilar Romo]
-> Economics Student at [PUCP](https://www.pucp.edu.pe)
+> 🇵🇪 Economics Student at [PUCP](https://www.pucp.edu.pe)
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -10,13 +10,13 @@
 
 <div>
  <p>
-🎓 Among the computer tools that I use at an intermediate level are Stata, Python, R and Visual Basic. Also, I have knowledge in Bloomberg, Power BI and SQL. The creativity and simplicity in the creation of codes is something that stands out to me.
+🤖 Among the computer tools that I use at an intermediate level are Stata, Python, R and Visual Basic. Also, I have knowledge in Bloomberg, Power BI and SQL. The creativity and simplicity in the creation of codes is something that stands out to me.
 
-It should also be mentioned that I have solid knowledge of econometrics, microeconomics and macroeconomics.
+✍️ It should also be mentioned that I have solid knowledge of econometrics, microeconomics and macroeconomics.
 
-Among the areas in which I would like to specialize on the economic side are Pension Economics, Development Economics and International Economics. On the financial side, I would like to specialize in the areas of Financial Analysis, Capital Markets and Investments, Portfolio Management and Advisor/Consultant.
+👀 Among the areas in which I would like to specialize on the economic side are Pension Economics, Development Economics and International Economics. On the financial side, I would like to specialize in the areas of Financial Analysis, Capital Markets and Investments, Portfolio Management and Advisor/Consultant.
 
-Finally, I would like to mention that I have a good command of both communication and business soft skills, since I have been developing them from an early age.
+🤝 Finally, I would like to mention that I have a good command of both communication and business soft skills, since I have been developing them from an early age.
 </p>
 </div>
 
