@@ -67,8 +67,15 @@ https://www.stata.com
 
 <p align="center">
 <a href="https://www.instagram.com/diegoaguilarromo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-www.instagram.com/diegoaguilarromo/-blue?style=flat&logo=google-chrome"></a>
+
+<a href="https://www.instagram.com/diegoaguilarromo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-diegoaguilarromo-black?style=flat-square&logo=instagram"></a>
+
+
 <a href="https://www.linkedin.com/in/diego-alonso-aguilar-romo-484b541ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@diegoalonsoaguilarromo-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:alonso.aguilarr@@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-alonso.aguilarr@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
+
+<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+
 </p>
 
 
