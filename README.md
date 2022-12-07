@@ -1,4 +1,10 @@
 
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/DiegoFinance31/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
+
 ### Hi there 👋 I'm [Diego Alonso Aguilar Romo](https://DiegoFinance31.com.np)
 > Economics Student at [PUCP](https://www.pucp.edu.pe)
 
@@ -19,7 +25,12 @@ Finally, I would like to mention that I have a good command of both communicatio
 
 ### Programming Languages 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual basic/visual basic.png" alt="Visual Basic" width="38">](https://visualstudio.microsoft.com/es/downloads/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/stata/stata.png" alt="Stata" width="24">](https://www.stata.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Bloomberg Terminal/Bloomberg Terminal.png" alt="Bloomberg Terminal" width="24">](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) |  
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://python.org/) | 
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" width="24">](https://r-project.org/)
+
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual basic/visual basic.png" alt="Visual Basic" width="38">](https://visualstudio.microsoft.com/es/downloads/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/stata/stata.png" alt="Stata" width="24">](https://www.stata.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Bloomberg Terminal/Bloomberg Terminal.png" alt="Bloomberg Terminal" width="24">](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) |  
 
 
 |---|---|---|---|---|---|
