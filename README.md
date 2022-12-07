@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm [Diego Alonso Aguilar Romo]
+### Hello everyone👋 I'm [Diego Alonso Aguilar Romo]
 >🇵🇪 Economics Student at [PUCP](https://www.pucp.edu.pe)
 
 
