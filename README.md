@@ -36,7 +36,7 @@
 
 <h3>💥 Languages I speak</h3>
 
-🗣️ &nbsp; Canva | ManyChat | FacebookAds | WhatsappBusiness
+🗣️ &nbsp; Spanish | English | French | Portuguese
 
 ### Github Stats
 
