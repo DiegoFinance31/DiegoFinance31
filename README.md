@@ -1,5 +1,8 @@
 
-### Hi there 👋 I'm [Diego Alonso Aguilar Romo](https://DiegoFinance31.com.np)
+### Hi there 👋 I'm [Diego Alonso Aguilar Romo]
+
+### Hi there 👋<h2> I'm Shivam</h2>
+
 > Economics Student at [PUCP](https://www.pucp.edu.pe)
 
 
@@ -10,7 +13,7 @@
 
 <div>
  <p>
-Among the computer tools that I use at an intermediate level are Stata, Python, R and Visual Basic. Also, I have knowledge in Bloomberg, Power BI and SQL. The creativity and simplicity in the creation of codes is something that stands out to me.
+🎓 Among the computer tools that I use at an intermediate level are Stata, Python, R and Visual Basic. Also, I have knowledge in Bloomberg, Power BI and SQL. The creativity and simplicity in the creation of codes is something that stands out to me.
 
 It should also be mentioned that I have solid knowledge of econometrics, microeconomics and macroeconomics.
 
@@ -22,24 +25,12 @@ Finally, I would like to mention that I have a good command of both communicatio
 
 ### Programming Languages 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" width="24">](https://r-project.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://images.app.goo.gl/yk8xXfqZTwk24L95A" alt="Stata" width="24">](https://www.stata.com/) | 
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" width="24">](https://r-project.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)
+
+<h3>🛠 Additional Tech Stack</h3>
 
 
-
-https://images.app.goo.gl/yk8xXfqZTwk24L95A
-
-https://www.stata.com
-
-
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual basic/visual basic.png" alt="Visual Basic" width="38">](https://visualstudio.microsoft.com/es/downloads/)  | 
-
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/stata/stata.png" alt="Stata" width="24">](https://stata.org/)  
-
-
-|  Stata [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Bloomberg Terminal/Bloomberg Terminal.png" alt="Bloomberg Terminal" width="24">](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) |  
-
+💻 &nbsp; Stata | Bloomberg | MySQL | Power BI
 
 
 |---|---|---|---|---|---|
