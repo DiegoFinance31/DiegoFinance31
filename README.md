@@ -27,7 +27,7 @@
 <h3>💥 Additional Tech Stack</h3>
 
 
-💻 &nbsp; Stata | Bloomberg | MySQL | Power BI | Capital IQ
+💻 &nbsp; Stata | Bloomberg | MySQL | Power BI | Capital IQ | Ofimática 
 
 
 <h3>💥 Marketing tools that I use</h3>
@@ -56,7 +56,7 @@
 
 <p align="center">
 
-<a href="https://www.instagram.com/diegoaguilarromo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-diegoaguilarromo-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/diegoaguilarromo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-diegoaguilarromo-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.linkedin.com/in/diego-alonso-aguilar-romo-484b541ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@diegoalonsoaguilarromo-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:alonso.aguilarr@@pucp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-alonso.aguilarr@pucp.edu.pe-blue?style=flat&logo=gmail"></a>
 
