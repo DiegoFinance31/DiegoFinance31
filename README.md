@@ -1,9 +1,6 @@
 
-Nombre de usuario: anandmainali 
-
-
 ### Hi there 👋 I'm [Diego Alonso Aguilar Romo](https://DiegoFinance31.com.np)
-> Economics Student at [PUCP](https://softnep.com)
+> Economics Student at [PUCP](https://www.pucp.edu.pe)
 
 
 <img src="https://komarev.com/ghpvc/?username=DiegoFinance31" alt="DiegoFinance31" />
@@ -22,7 +19,9 @@ Finally, I would like to mention that I have a good command of both communicatio
 
 ### Programming Languages 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="24">](https://python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual basic/visual basic.png" alt="Visual Basic" width="38">](https://visualstudio.microsoft.com/es/downloads/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/stata/stata.png" alt="Stata" width="24">](https://www.stata.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Bloomberg Terminal/Bloomberg Terminal.png" alt="Bloomberg Terminal" width="24">](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) |  
+
+
 |---|---|---|---|---|---|
  
 ### Tools 🛠️
