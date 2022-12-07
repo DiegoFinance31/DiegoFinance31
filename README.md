@@ -12,6 +12,46 @@
  <p>
 🤖 The creativity and simplicity in the creation of codes is something that stands out to me.
 
+👉 Recently I am using R, Python, Stata and Bloomberg programs regularly; which is why, I would like to share with you the knowledge I know about it.
+
+👇 The topics I handle in R and Python in general are:
+
+✅ Management of statistical packages and information processing
+
+✅Know and work with different sources of information Enaho, Endes, Census 2017, etc.
+
+✅ Spatial information management
+
+✅ Management of Google Cloud services: geocoding and Travel time Management of linear models in both programming languages.
+
+👇 The topics I deal with in Stata in a general way are:
+
+✅ Manipulate and clean data to obtain relevant information
+
+✅ Apply technical tools of statistics and econometrics, focused mainly on support in research work.
+
+✅ Identify the appropriate econometric methodology to respond to the problems that appear in the empirical study of some economic data.
+
+✅ Know and work with different sources of national surveys, including: National Household Survey (ENAHO), National Demographic and Family Health Survey (ENDES), Student Census Evaluation (ECE), National Registry of Municipalities (RENAMU), among others ( Censuses, MEF Friendly Consultation, BCRP data)
+
+✅ Present statistical and econometric results adequately.
+
+✅ Solve programming problems in Stata.
+
+👇 The topics that I handle from Bloomberg in general are:
+
+✅ Extract, analyze and present the financial and public information of publicly traded companies.
+
+✅ Analyze the main stock market indicators and find the news that underlies their movements.
+
+✅ Perform searches for financial assets such as bonds and stocks based on multiple fields.
+
+✅ Quickly analyze information on bonds, derivatives, currencies and commodities.
+
+✅ Create databases of economic and financial information in Excel using the Bloomberg Add-in.
+
+✅ Analyze Financial Information using Capital IQ.
+
 ✍️ It should also be mentioned that I have solid knowledge of econometrics, microeconomics and macroeconomics.
 
 👀 Among the areas in which I would like to specialize on the economic side are Pension Economics, Development Economics and International Economics. On the financial side, I would like to specialize in the areas of Financial Analysis, Capital Markets and Investments, Portfolio Management and Advisor/Consultant.
