@@ -38,6 +38,11 @@
 
 🗣️ &nbsp; Spanish | English | French | Portuguese
 
+<h3>💥 My favorite hobbies</h3>
+
+😎 &nbsp; play basketball | play soccer | reading and listening to jazz music | watch shark tank videos on youtube
+
+
 ### Github Stats
 
 [![DiegoFinance31 GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoFinance31&show_icons=true&count_private=true)](https://github.com/DiegoFinance31)
