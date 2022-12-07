@@ -23,13 +23,15 @@ Finally, I would like to mention that I have a good command of both communicatio
 
 
 
+
+
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual basic/visual basic.png" alt="Visual Basic" width="38">](https://visualstudio.microsoft.com/es/downloads/)  | 
 
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/stata/stata.png" alt="Stata" width="24">](https://stata.org/)  
 
 
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Bloomberg Terminal/Bloomberg Terminal.png" alt="Bloomberg Terminal" width="24">](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) |  
+|  Stata [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Bloomberg Terminal/Bloomberg Terminal.png" alt="Bloomberg Terminal" width="24">](https://www.bloomberg.com/professional/solution/bloomberg-terminal/) |  
 
 
 
